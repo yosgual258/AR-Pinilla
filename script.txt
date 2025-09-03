@@ -1,2 +1,2 @@
-echo "Primera línea del script" > Script.txt
-echo "Segunda línea del script" >> Script.txt
+Primera línea del script
+Segunda línea del script
