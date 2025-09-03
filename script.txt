@@ -1,0 +1,2 @@
+echo "Primera línea del script" > Script.txt
+echo "Segunda línea del script" >> Script.txt
